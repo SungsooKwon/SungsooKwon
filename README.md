@@ -14,7 +14,7 @@
 
 <br>
 
-### :octocat: Career
+### Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
