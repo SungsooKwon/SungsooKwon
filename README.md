@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder%text=Sungsoo-Kwon&fontAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Sungsoo-Kwon&fontAlignY=50&animation=fadeIn)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
