@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Sungsoo-Kwon&fontAlignY=50&animation=fadeIn)
 
-<h3 align="center">🛠 Skills 🛠</h3>
+<h3 align="center">:mortar_board: Skills :mortar_board:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -17,7 +17,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2017. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
+| **Education** | 2017. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
 | **External activities** | 2021. 11 ~   2021. 12 | Global Internship | **Globaleur** |
 | **External activities** | 2022. 1 ~   2022. 3 | short-term researcher activities | **ETRI** |
 | **Research activities** | 2021. 3 ~  | Research Task Activity | **Daegu Catolic University AI Lab** |
