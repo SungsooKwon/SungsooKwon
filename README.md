@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Sungsoo-Kwon&fontAlignY=50&animation=fadeIn)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Skills 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
