@@ -29,7 +29,7 @@
 </p>
 <br>
 <p align="center">
-  <![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungsooKwon&count_bg=%2304EA81&title_bg=%23E606D6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]>
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungsooKwon&count_bg=%2304EA81&title_bg=%23E606D6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 </p>
 
 
