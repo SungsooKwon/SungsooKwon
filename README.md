@@ -28,7 +28,7 @@
   <a href="mailto:ksu980406@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksu980406@naver.com"/></a>
 </p>
 <br>
-
+#### My CV is (https://rhetorical-tempo-b84.notion.site/CV-Kwon-Sung-Soo-f689e5946019460b92188463a2b777a2)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungsooKwon&count_bg=%2304EA81&title_bg=%23E606D6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
 
