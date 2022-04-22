@@ -23,7 +23,7 @@
 | **Research activities** | 2020. 3 ~  | Research Task Activity | **Daegu Catolic University AI Lab** |
 
 <h3 align="center"> 📫 Contact 📫 </h3>
-CV : https://rhetorical-tempo-b84.notion.site/CV-Kwon-Sung-Soo-f689e5946019460b92188463a2b777a2
+                CV : https://rhetorical-tempo-b84.notion.site/CV-Kwon-Sung-Soo-f689e5946019460b92188463a2b777a2
 <p align="center">
   <a href="https://github.com/SungsooKwon"><img src="https://img.shields.io/badge/Github%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://github.com/SungsooKwon/"/></a>&nbsp
   <a href="mailto:ksu980406@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksu980406@naver.com"/></a>
