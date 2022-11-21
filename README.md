@@ -20,7 +20,7 @@
 | **Education** | 2017. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
 | **External activities** | 2021. 11 ~   2021. 12 | Global Internship | **Globaleur** |
 | **External activities** | 2022. 1 ~   2022. 3 | short-term researcher activities | **ETRI** |
-| **Research activities** | 2020. 3 ~  | Research Task Activity | **Daegu Catolic University AI Lab** |
+| **Research activities** | 2020. 3 ~  | Research Task Activity | **DCU-KTAI LAB(Daegu Catolic University AI Lab)** |
 
 <h3 align="center"> 📫 Contact 📫 </h3>
                 CV -- https://gamy-alto-468.notion.site/CV-Kwon-Sung-Soo-46faa85b82d74c4987cdfbe6bf45c051 --
