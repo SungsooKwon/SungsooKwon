@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungsoo's Github&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungsoo's%20Github&fontSize=90" alt="Sungsoo's Github Banner" />
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
