@@ -14,8 +14,6 @@
 
 ### Career
 
-<h3>Career</h3>
-
 <table>
   <tr>
     <th>Type</th>
