@@ -43,7 +43,6 @@
 <body>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&text=Sungsoo-Kwon&fontAlignY=50&animation=fadeIn" alt="header">
-<h3 align="center">:mortar_board: Skills :mortar_board:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
