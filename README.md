@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
 
-<h3>Career</h3>
-
+<div align="center">
+<h3>☑️Career☑️</h3>
+</div>
 <table>
   <tr>
     <th>Type</th>
