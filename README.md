@@ -61,7 +61,7 @@
     <td><strong>Education</strong></td>
     <td>2023. 3 ~ 2025. 2</td>
     <td>Graduate Program in AI and Big Data</td>
-    <td><strong>Daegu Catholic University, Knowledge Transfer AI Lab</strong></td>
+    <td><strong>Daegu Catholic University, Master's degree, Knowledge Transfer AI Lab</strong></td>
   </tr>
 </table>
 
