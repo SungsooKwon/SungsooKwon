@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
-
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksu0406" width="600" height="300"/></a>
 <div align="center">
 <h3>☑️Career☑️</h3>
 </div>
@@ -64,8 +64,6 @@
     <td><strong>Daegu Catholic University, Master's degree, Knowledge Transfer AI Lab</strong></td>
   </tr>
 </table>
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksu0406" width="600" height="300"/></a>
 
 
 <h3 align="center"> 📫 Contact 📫 </h3>
