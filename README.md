@@ -64,7 +64,9 @@
     <td><strong>Daegu Catholic University, Master's degree, Knowledge Transfer AI Lab</strong></td>
   </tr>
 </table>
-
+---
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksu0406" width="600" height="300"/></a>
+---
 
 <h3 align="center"> 📫 Contact 📫 </h3>
 <p align="center">
