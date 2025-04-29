@@ -1,4 +1,11 @@
+# Hello World! 🌎
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Intelligence+is+the+ability+to+adapt+to+change.;Let's+build+something+awesome+together" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+I'm a developer who loves to create and innovate. When I'm not coding, you can find me [hobby].
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungsoo's%20Github&fontSize=90" alt="Sungsoo's Github Banner" class="banner" />
