@@ -1,4 +1,4 @@
-# Hello World! My name is Sungsoo Kwon🌎
+# Hello World! My name is Sungsoo Kwon.🌎
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&height=60&lines=I+am+a+passionate+AI+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
