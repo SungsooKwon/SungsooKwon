@@ -1,12 +1,7 @@
 # Hello World! 🌎
 
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sungsoo Kwon&theme=onedark" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Intelligence+is+the+ability+to+adapt+to+change.;Intelligence+is+the+ability+to+adapt+to+change.;Let's+build+something+awesome+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?multiline=true&width=500&height=55&lines=My+name+is+Sungsoo+Kwon.;I+am+a+passionate+AI+engineer." alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
