@@ -1,16 +1,9 @@
-# Hello World! 🌎
+# Hello World! My name is Sungsoo Kwon🌎
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&height=60&lines=I+am+a+passionate+AI+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+a+passionate+developer;Let's+build+something+awesome+together](https://readme-typing-svg.herokuapp.com/demo/?multiline=true&width=500&height=55&lines=My+name+is+Sungsoo+Kwon.;I+am+a+passionate+AI+engineer.)" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?multiline=true&width=500&height=55&lines=My+name+is+Sungsoo+Kwon.;I+am+a+passionate+AI+engineer." />
-</div>
 
 ## 🚀 About Me
-I'm a developer who loves to create and innovate. When I'm not coding, you can find me [hobby].
+As an AI engineer, I never stop. I learn, adapt, and grow together.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungsoo's%20Github&fontSize=90" alt="Sungsoo's Github Banner" class="banner" />
