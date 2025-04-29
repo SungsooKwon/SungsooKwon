@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungsoo's%20Github&fontSize=90" alt="Sungsoo's Github Banner" class="banner" />
+</p>
 
 <div align="center">
 <h2>📚skills📚</h2>
