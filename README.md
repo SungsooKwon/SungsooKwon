@@ -1,7 +1,7 @@
 # Hello World! 🌎
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?multiline=true&width=500&height=55&lines=My+name+is+Sungsoo+Kwon.;I+am+a+passionate+AI+engineer.">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?multiline=true&width=500&height=55&lines=My+name+is+Sungsoo+Kwon.;I+am+a+passionate+AI+engineer." />
 </div>
 
 ## 🚀 About Me
