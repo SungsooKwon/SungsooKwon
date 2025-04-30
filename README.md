@@ -8,8 +8,6 @@
 ---
 
 <div align="center">
-
-
 <h2>📚skills📚</h2>
 </div>
 <p align="center">
@@ -38,9 +36,9 @@
 
 
 ---
-<h3 align="left"> 📫 Contact  </h3>
-<p align="left">
-  <a href="mailto:thesng.k@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksu980406@naver.com"/></a>
+<h3 align="center"> 📫 Contact  </h3>
+<p align="center">
+  <a href="mailto:thesng.k@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thesng.k@gmail.com"/></a>
 </p>
 
 ---
