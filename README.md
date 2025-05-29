@@ -1,8 +1,8 @@
 # Hello World!🌎
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&height=60&lines=I+am+a+passionate+AI+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&height=60&lines=I+am+a+passionate+Data+Scientist.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-#### Hello, I am Sungsoo Kwon, an AI Engineer 🖥️
+#### Hello, I am Sungsoo Kwon, a Data Scientist 🖥️
 
 
 ---
@@ -32,6 +32,7 @@
   | Internship |2023.01. ~ 2023.03. | Winter Research Internship | Electronics and Telecommunications Research Institute (ETRI) |
   | Education |2023.02. | Graduated with a Bachelor's Degree | Daegu Catholic University |
   | Education |2025.02. | Graduated with a Master's Degree | Daegu Catholic University |
+  | Work | 2025.05. | Data Scientists | MongooseAI |
 
 
 
