@@ -30,9 +30,9 @@
   | Education |2021.12. ~ 2023.02. | Undergraduate Researcher at DCU-KTAI Lab  | Daegu Catholic University |
   | Internship |2022.01. ~ 2022.03. | Winter Research Internship | Electronics and Telecommunications Research Institute (ETRI) |
   | Internship |2023.01. ~ 2023.03. | Winter Research Internship | Electronics and Telecommunications Research Institute (ETRI) |
-  | Education |2023.02. | Graduated with a Bachelor's Degree | Daegu Catholic University |
-  | Education |2025.02. | Graduated with a Master's Degree | Daegu Catholic University |
-  | Work | 2025.05. | Data Scientists | MongooseAI |
+  | Education |2017.03 ~ 2023.02. | Graduated with a Bachelor's Degree | Daegu Catholic University |
+  | Education |2023.03 ~ 2025.02. | Graduated with a Master's Degree | Daegu Catholic University |
+  | Work | 2025.05. ~ ing | Data Scientists | MongooseAI |
 
 
 
