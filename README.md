@@ -39,7 +39,7 @@
 ---
 <h3 align="center"> 📫 Contact 📫 </h3>
 <p align="center">
-  <a href="mailto:thesng.k@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thesng.k@gmail.com"/></a>
+  thesng.k@gmail.com
 </p>
 
 ---
