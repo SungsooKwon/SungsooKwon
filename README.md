@@ -40,18 +40,6 @@
 <h3 align="center"> 📫 Contact 📫 </h3>
 <p align="center">
   thesng.k@gmail.com
-</p>
-
----
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<p align="center">
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksu0406" width="600" height="300"/></a>
-<div align="center">
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SungsooKwon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
 
 
