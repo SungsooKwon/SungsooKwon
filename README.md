@@ -50,3 +50,9 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 <div align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Season-colored animated 3D visualization of Sungsoo Kwon's GitHub contributions" width="100%" />
 </div>
+
+### Contribution Snake
+
+<div align="center">
+  <img src="./assets/contribution-snake.svg" alt="Animated snake moving through Sungsoo Kwon's actual GitHub contribution grid" width="100%" />
+</div>
