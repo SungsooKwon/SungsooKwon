@@ -3,8 +3,7 @@
 
   <br />
 
-  <!-- Typing animation: https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=3000&amp;pause=1200&amp;color=53E0BD&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=64&amp;lines=Data%20Scientist%20and%20AI%20Engineer;AI%20for%20industrial%20operations;From%20data%20analysis%20to%20deployment%20on%20site" alt="Animated introduction: Data Scientist and AI Engineer applying AI to industrial operations" width="100%" />
+  <img src="./assets/typing.svg" alt="Animated introduction: applied AI for industrial operations, from data analysis to on-site deployment" width="100%" />
 
   <br />
 
