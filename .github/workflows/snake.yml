@@ -31,5 +31,6 @@ jobs:
           git add assets/contribution-snake.svg
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh contribution snake'
+            git pull --rebase origin main
             git push
           fi
