@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-profile-v7.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile-v8.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
@@ -16,7 +16,7 @@
 
 > Hello! I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, from data analysis and model development to validating performance on site and adapting models to real operating conditions.
 
-> 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 산업 현장에 AI를 적용하며, 데이터 분석과 AI 모델 개발부터 현장에서 모델의 작동을 검증하고 운영 환경에 맞게 수정하는 과정까지 담당하고 있습니다.
+> 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 데이터 분석과 AI 모델 개발부터 AI가 실제 산업 현장에 적용되는 과정까지 담당하고 있습니다.
 
 ### Areas of Interest
 
@@ -24,9 +24,14 @@
   <img src="./assets/areas-of-interest.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
 </div>
 
-### Skills
+### Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" width="28" height="28" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" width="28" height="28" /> PyTorch &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="28" height="28" /> TensorFlow
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
 
 ### Experience
 
