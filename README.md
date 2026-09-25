@@ -15,8 +15,12 @@
 </div>
 
 > Hello! I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, from data analysis and model development to validating performance on site and adapting models to real operating conditions.
+>
+> I'm currently working on several projects to optimize process parameters for industrial equipment.
 
 > 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 데이터 분석과 AI 모델 개발부터 AI가 실제 산업 현장에 적용되는 과정까지 담당하고 있습니다.
+>
+> 저는 현재 산업 설비의 공정 파라미터를 최적화하는 다수의 프로젝트를 수행 중입니다.
 
 ### Areas of Interest
 
