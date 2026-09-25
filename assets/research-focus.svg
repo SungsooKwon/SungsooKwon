@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+  <title id="title">Research interests and currently studying</title>
+  <desc id="desc">Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1a2a"/>
+      <stop offset="1" stop-color="#14283a"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="838" height="298" rx="17" fill="url(#bg)" stroke="#3a5569" stroke-width="2"/>
+  <text x="29" y="44" fill="#dfeaf0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1">RESEARCH &amp; LEARNING</text>
+  <line x1="29" y1="60" x2="811" y2="60" stroke="#365266"/>
+  <rect x="28" y="74" width="382" height="197" rx="13" fill="#142c38" stroke="#42796f"/>
+  <rect x="430" y="74" width="382" height="197" rx="13" fill="#2b2930" stroke="#7e684b"/>
+  <text x="49" y="101" fill="#82e7c7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">CURRENT INTERESTS</text>
+  <text x="451" y="101" fill="#f0c982" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">STUDYING NOW</text>
+    <g>
+      <rect x="41" y="112" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="64" cy="136" r="7" fill="#67dbbd"></circle>
+      <text x="84" y="143" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Optimal Control</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <rect x="41" y="164" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="64" cy="188" r="7" fill="#67dbbd"></circle>
+      <text x="84" y="195" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Time Series Prediction</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <rect x="41" y="216" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="64" cy="240" r="7" fill="#67dbbd"></circle>
+      <text x="84" y="247" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Anomaly Detection</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.64s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <rect x="443" y="112" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="466" cy="136" r="7" fill="#e7b561" opacity=".8"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text x="486" y="143" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Reinforcement Learning</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <rect x="443" y="164" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="466" cy="188" r="7" fill="#e7b561" opacity=".8"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text x="486" y="195" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Large Language Models (LLMs)</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.67s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <rect x="443" y="216" width="356" height="48" rx="10" fill="#1b3042" stroke="#355367"/>
+      <circle cx="466" cy="240" r="7" fill="#e7b561" opacity=".8"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+      <text x="486" y="247" fill="#e5f0f5" font-family="Arial, Helvetica, sans-serif" font-size="19">Multi-Agent Systems (MAS)</text>
+      <animate attributeName="opacity" from="0" to="1" begin="0.89s" dur=".5s" fill="freeze"/>
+    </g>
+</svg>
