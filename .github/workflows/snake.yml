@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/snake.yml
-      - scripts/style_contribution_snake.py
+      - scripts/render_contribution_snake.py
 
 permissions:
   contents: write
@@ -24,14 +24,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/contribution-snake-v3.svg?color_snake=#facc15&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-      - name: Animate snake color and eaten cells
-        run: python3 scripts/style_contribution_snake.py assets/contribution-snake-v3.svg
+            assets/contribution-snake-v4.svg?color_snake=#facc15&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+      - name: Render snake crossing contribution cells
+        run: python3 scripts/render_contribution_snake.py assets/contribution-snake-v4.svg
       - name: Commit updated animation
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add assets/contribution-snake-v3.svg
+          git add assets/contribution-snake-v4.svg
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh contribution snake'
             git pull --rebase origin main
