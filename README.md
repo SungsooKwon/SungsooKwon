@@ -1,45 +1,41 @@
-# Hello World!🌎
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&height=60&lines=I+am+a+passionate+Data+Scientist.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="./assets/hero.svg" alt="Sungsoo Kwon — Data Scientist at MongooseAI" width="100%" />
 
-## 🚀 About Me
-#### Hello, I am Sungsoo Kwon, a Data Scientist 🖥️
+  <br />
 
+  <a href="mailto:thesng.k@gmail.com">Email</a> ·
+  <a href="https://github.com/SungsooKwon">GitHub</a>
+</div>
 
----
+### `sungsoo@github:~$ whoami`
+
+I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. My background spans academic research, internships at ETRI, and applied machine learning.
+
+### `sungsoo@github:~$ cat stack.txt`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### `sungsoo@github:~$ history`
+
+| Period | Experience |
+| :-- | :-- |
+| 2025.05 – Present | Data Scientist · MongooseAI |
+| 2023.03 – 2025.02 | Master's degree · Daegu Catholic University |
+| 2023.01 – 2023.03 | Research Intern · ETRI |
+| 2022.01 – 2022.03 | Research Intern · ETRI |
+| 2021.12 – 2023.02 | Undergraduate Researcher · DCU-KTAI Lab |
+| 2017.03 – 2023.02 | Bachelor's degree · Daegu Catholic University |
+
+### `sungsoo@github:~$ git log --graph`
 
 <div align="center">
-<h2>📚 skills 📚</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D visualization of Sungsoo Kwon's GitHub contributions" width="100%" />
+  </picture>
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=flat-square&logo=HuggingFace&logoColor=white"/></a>&nbsp
-  
-</p>
-
----
-
-  <h3>☑️ Career</h3>
-  </p>
-
-  | Type    |Date | Description                                    |  Organization                         |
-  | ---------- |---------- | ---------------------------------------------- | ---------------------------------------------- |
-  | Education | 2017.03. | Enrolled in Department Big Data Engineering         | Daegu Catholic University |
-  | Education | 2021.12. ~ 2023.02. | Undergraduate Researcher at DCU-KTAI Lab  | Daegu Catholic University |
-  | Internship | 2022.01. ~ 2022.03. | Winter Research Internship | Electronics and Telecommunications Research Institute (ETRI) |
-  | Internship | 2023.01. ~ 2023.03. | Winter Research Internship | Electronics and Telecommunications Research Institute (ETRI) |
-  | Education | 2017.03 ~ 2023.02. | Graduated with a Bachelor's Degree | Daegu Catholic University |
-  | Education | 2023.03 ~ 2025.02. | Graduated with a Master's Degree | Daegu Catholic University |
-  | Work | 2025.05. ~ ing. | Data Scientists | MongooseAI |
-
-
-
----
-<h3 align="center"> 📫 Contact 📫 </h3>
-<p align="center">
-  thesng.k@gmail.com
-
-
-
