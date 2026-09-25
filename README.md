@@ -18,10 +18,8 @@
 
 > 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 데이터 분석과 AI 모델 개발부터 AI가 실제 산업 현장에 적용되는 과정까지 담당하고 있으며, 현재는 산업 설비의 공정 파라미터를 최적화하는 여러 프로젝트를 수행 중입니다.
 
-### Areas of Interest
-
 <div align="center">
-  <img src="./assets/areas-of-interest.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
+  <img src="./assets/areas-of-interest-v2.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
 </div>
 
 ### Skills & Tools
