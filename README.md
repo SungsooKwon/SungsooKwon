@@ -13,7 +13,7 @@
 ### About Me
 
 <div align="center">
-  <img src="./assets/profile-typing-v4.svg" alt="Animated introduction: industrial know-how and on-site needs reflected in practical AI" width="100%" />
+  <img src="./assets/profile-typing-v5.svg" alt="Animated introduction: industrial know-how and on-site needs reflected in practical AI" width="100%" />
 </div>
 
 > Hello! I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, from data analysis and model development to validating performance on site and adapting models to real operating conditions. My current work includes several projects focused on optimizing process parameters for industrial equipment.
