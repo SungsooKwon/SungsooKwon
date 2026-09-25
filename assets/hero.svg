@@ -52,5 +52,5 @@
     <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
   <text x="91" y="270" fill="#b6f5df" font-family="Consolas, Monaco, monospace" font-size="15">MongooseAI · 2025—</text>
-  <text x="57" y="317" fill="#7493aa" font-family="Consolas, Monaco, monospace" font-size="13">Python  /  PyTorch  /  TensorFlow  /  Hugging Face</text>
+  <text x="57" y="317" fill="#7493aa" font-family="Consolas, Monaco, monospace" font-size="13">Python  /  PyTorch  /  TensorFlow</text>
 </svg>
