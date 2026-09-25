@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile-v3.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
@@ -24,14 +24,15 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+| Python | PyTorch | TensorFlow |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" width="58" /> | <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" width="58" /> | <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="58" /> |
 
 ### Research Interests
 
-- **Current interests:** Optimal Control, Time Series Prediction, Anomaly Detection
-- **Currently studying:** Reinforcement Learning, Large Language Models (LLMs), Multi-Agent Systems (MAS)
+<div align="center">
+  <img src="./assets/research-focus-v3.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
+</div>
 
 ### Experience
 
