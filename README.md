@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-profile-v4.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile-v5.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
@@ -14,12 +14,8 @@
   <img src="./assets/profile-typing-v2.svg" alt="Animated introduction: industrial AI, validated and adapted on site" width="100%" />
 </div>
 
-> **ENGLISH**
->
 > Hello! I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, from data analysis and model development to validating performance on site and adapting models to real operating conditions.
 
-> **한국어**
->
 > 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 산업 현장에 AI를 적용하며, 데이터 분석과 AI 모델 개발부터 현장에서 모델의 작동을 검증하고 운영 환경에 맞게 수정하는 과정까지 담당하고 있습니다.
 
 ### Areas of Interest
