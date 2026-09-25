@@ -3,8 +3,8 @@
   <desc id="desc">Animated phrases about industrial AI, end-to-end work, and research interests.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="0">
-      <stop offset="0" stop-color="#102738"/>
-      <stop offset="1" stop-color="#172238"/>
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f5f6f8"/>
     </linearGradient>
     <clipPath id="first">
       <rect x="98" y="16" width="760" height="58">
@@ -22,13 +22,13 @@
       </rect>
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="998" height="86" rx="13" fill="url(#bg)" stroke="#3c5a6d" stroke-width="2"/>
-  <rect x="23" y="26" width="51" height="36" rx="8" fill="#1c514e" stroke="#4aba9d"/>
-  <text x="48.5" y="49" text-anchor="middle" fill="#89f0d1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">AI</text>
-  <text x="98" y="55" clip-path="url(#first)" fill="#e9f4f7" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Applied AI for industrial settings</text>
-  <text x="98" y="55" clip-path="url(#second)" fill="#e9f4f7" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">From data analysis to on-site deployment</text>
-  <text x="98" y="55" clip-path="url(#third)" fill="#e9f4f7" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Optimal control · time series · anomaly detection</text>
-  <rect x="975" y="24" width="3" height="40" rx="1.5" fill="#6be5c1">
+  <rect x="1" y="1" width="998" height="86" rx="22" fill="url(#bg)" stroke="#e2e5ea" stroke-width="2"/>
+  <rect x="23" y="26" width="51" height="36" rx="8" fill="#eef4ff" stroke="#d7e4fa"/>
+  <text x="48.5" y="49" text-anchor="middle" fill="#315ca0" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700">AI</text>
+  <text x="98" y="55" clip-path="url(#first)" fill="#17191f" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="25" font-weight="600">Applied AI for industrial settings</text>
+  <text x="98" y="55" clip-path="url(#second)" fill="#17191f" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="25" font-weight="600">From data analysis to on-site deployment</text>
+  <text x="98" y="55" clip-path="url(#third)" fill="#17191f" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="25" font-weight="600">Optimal control · time series · anomaly detection</text>
+  <rect x="975" y="24" width="3" height="40" rx="1.5" fill="#4f78b8">
     <animate attributeName="opacity" values="1;.2;1" dur=".9s" repeatCount="indefinite"/>
   </rect>
 </svg>
