@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="310" viewBox="0 0 840 310" role="img" aria-labelledby="title desc">
+  <title id="title">Areas of Interest</title>
+  <desc id="desc">Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems.</desc>
+  <rect x="1" y="1" width="838" height="308" rx="10" fill="#171d25" stroke="#313b48" stroke-width="2"/>
+
+  <g font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif">
+    <text x="40" y="57" fill="#f2f4f7" font-size="30" font-weight="650" letter-spacing="-.6">Areas of Interest</text>
+    <line x1="40" y1="78" x2="800" y2="78" stroke="#394452"/>
+    <line x1="420" y1="103" x2="420" y2="279" stroke="#394452"/>
+
+    <rect x="40" y="103" width="24" height="2" fill="#e0a19a">
+      <animate attributeName="width" from="0" to="24" begin="0s" dur=".65s" fill="freeze"/>
+    </rect>
+    <text x="76" y="109" fill="#aab5c2" font-size="12" font-weight="650" letter-spacing="1.2">CURRENT INTERESTS</text>
+
+    <rect x="438" y="103" width="24" height="2" fill="#89b6ea">
+      <animate attributeName="width" from="0" to="24" begin="0s" dur=".65s" fill="freeze"/>
+    </rect>
+    <text x="474" y="109" fill="#aab5c2" font-size="12" font-weight="650" letter-spacing="1.2">CURRENTLY STUDYING</text>
+
+    <g fill="#f2f4f7" font-size="21" font-weight="500">
+      <text x="40" y="158">Optimal Control</text>
+      <text x="40" y="213">Time Series Prediction</text>
+      <text x="40" y="268">Anomaly Detection</text>
+
+      <text x="438" y="158">Reinforcement Learning</text>
+      <text x="438" y="213">Large Language Models</text>
+      <text x="438" y="268">Multi-Agent Systems</text>
+    </g>
+
+    <g stroke="#313b48">
+      <line x1="40" y1="177" x2="398" y2="177"/>
+      <line x1="40" y1="232" x2="398" y2="232"/>
+      <line x1="438" y1="177" x2="800" y2="177"/>
+      <line x1="438" y1="232" x2="800" y2="232"/>
+    </g>
+  </g>
+</svg>
