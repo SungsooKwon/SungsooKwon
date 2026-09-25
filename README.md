@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/hero-profile-v2.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
-  <img src="./assets/typing.svg" alt="Animated introduction: applied AI for industrial operations, from data analysis to on-site deployment" width="100%" />
+  <img src="./assets/profile-typing.svg" alt="Animated introduction to industrial AI and research interests" width="100%" />
 
   <br />
 
@@ -30,9 +30,8 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 
 ### Research Interests
 
-<div align="center">
-  <img src="./assets/research-focus-v2.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
-</div>
+- **Current interests:** Optimal Control, Time Series Prediction, Anomaly Detection
+- **Currently studying:** Reinforcement Learning, Large Language Models (LLMs), Multi-Agent Systems (MAS)
 
 ### Experience
 
