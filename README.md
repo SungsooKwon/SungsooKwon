@@ -7,11 +7,11 @@
   <a href="https://github.com/SungsooKwon">GitHub</a>
 </div>
 
-### `sungsoo@github:~$ whoami`
+### About Me
 
-I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. My background spans academic research, internships at ETRI, and applied machine learning.
+I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**.
 
-### `sungsoo@github:~$ cat stack.txt`
+### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -19,7 +19,7 @@ I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. My background spans ac
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### `sungsoo@github:~$ history`
+### Experience
 
 | Period | Experience |
 | :-- | :-- |
@@ -30,7 +30,7 @@ I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. My background spans ac
 | 2021.12 – 2023.02 | Undergraduate Researcher · DCU-KTAI Lab |
 | 2017.03 – 2023.02 | Bachelor's degree · Daegu Catholic University |
 
-### `sungsoo@github:~$ git log --graph`
+### GitHub Contributions
 
 <div align="center">
   <picture>
