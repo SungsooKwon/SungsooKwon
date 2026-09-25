@@ -1,0 +1,23 @@
+<!-- Adapted from https://github.com/kyechan99/capsule-render (MIT license). -->
+<svg role="img" aria-labelledby="title desc"
+        width="854"
+        height="170"
+        viewBox="0 0 854 170"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title id="title">Sungsoo Kwon</title>
+        <desc id="desc">Data Scientist and AI Engineer at MongooseAI.</desc>
+        <style>
+      .text {   font-size: 54px;   font-weight: 700;   font-family: Pretendard, -apple-system, BlinkMacSystemFont, Arial, sans-serif;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: Pretendard, -apple-system, BlinkMacSystemFont, Arial, sans-serif;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 854 170"
+        >
+          
+          <path fill="#F5F7FA"  fill-opacity="1" d="m 0 0 l 0 170 l 854 0 l 0 -170 z"></path>
+        </svg>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="text" style="fill:#1B2028;" stroke-width="1" >Sungsoo Kwon</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="70%" class="desc" style="fill:#1B2028;">Data Scientist and AI Engineer</text>
+      </svg>
