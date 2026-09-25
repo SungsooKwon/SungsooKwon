@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-profile.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile-v2.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
@@ -17,6 +17,8 @@
 
 I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, covering the full process from data analysis and model development to deployment on site.
 
+저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하는 **권성수**입니다. 산업 현장에 AI를 적용하며, 데이터 분석부터 AI 모델 개발과 현장 적용까지 전 과정을 수행합니다.
+
 ### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +28,7 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 ### Research Interests
 
 <div align="center">
-  <img src="./assets/research-focus.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
+  <img src="./assets/research-focus-v2.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
 </div>
 
 ### Experience
