@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-profile-v6.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile-v7.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
