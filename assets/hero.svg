@@ -1,56 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
-  <title id="title">Sungsoo Kwon — Data Scientist</title>
-  <desc id="desc">Animated profile banner with a data network and profile details.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sungsoo Kwon — Data Scientist at MongooseAI</title>
+  <desc id="desc">Animated profile banner with a pixel portrait, data graph, and skills.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1">
-      <stop offset="0" stop-color="#0c1424"/>
-      <stop offset="1" stop-color="#101f2c"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset=".55" stop-color="#122437"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="accent" x2="1" y2="0">
-      <stop offset="0" stop-color="#44dfb3"/>
-      <stop offset="1" stop-color="#5da9ff"/>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#53e0bd"/>
+      <stop offset="1" stop-color="#74aaff"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#20344a" stroke-width="1" opacity=".6"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#31506a" stroke-width=".8" opacity=".42"/>
     </pattern>
-    <clipPath id="screen"><rect x="1" y="1" width="998" height="338" rx="18"/></clipPath>
+    <clipPath id="frame"><rect x="1" y="1" width="998" height="418" rx="18"/></clipPath>
   </defs>
 
-  <rect x="1" y="1" width="998" height="338" rx="18" fill="url(#bg)" stroke="#30465a" stroke-width="2"/>
-  <g clip-path="url(#screen)">
-    <rect width="1000" height="340" fill="url(#grid)" opacity=".5"/>
-    <circle cx="797" cy="177" r="153" fill="#173948" opacity=".22"/>
-    <circle cx="797" cy="177" r="114" fill="none" stroke="#3f9e9d" stroke-width="1" stroke-dasharray="4 8" opacity=".5"/>
-    <circle cx="797" cy="177" r="73" fill="none" stroke="#3f9e9d" stroke-width="1" opacity=".35"/>
-    <path d="M637 220 L690 190 L743 211 L795 145 L842 164 L890 103 L954 131" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="440" stroke-dashoffset="440">
-      <animate attributeName="stroke-dashoffset" from="440" to="0" dur="2.8s" fill="freeze"/>
+  <rect x="1" y="1" width="998" height="418" rx="18" fill="url(#background)" stroke="#3b526b" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="420" fill="url(#grid)"/>
+    <circle cx="901" cy="201" r="170" fill="#1b5262" opacity=".13"/>
+    <circle cx="900" cy="199" r="115" fill="none" stroke="#54bdc1" stroke-width="1" stroke-dasharray="4 10" opacity=".25">
+      <animateTransform attributeName="transform" type="rotate" from="0 900 199" to="360 900 199" dur="36s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M760 275 L800 237 L834 250 L866 176 L903 187 L940 128 L995 148" fill="none" stroke="url(#signal)" stroke-width="2.5" stroke-dasharray="360" stroke-dashoffset="360" opacity=".75">
+      <animate attributeName="stroke-dashoffset" from="360" to="0" dur="3s" fill="freeze"/>
     </path>
-    <g fill="#56d9c1">
-      <circle cx="690" cy="190" r="5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".6s" dur=".4s" fill="freeze"/></circle>
-      <circle cx="743" cy="211" r="5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1s" dur=".4s" fill="freeze"/></circle>
-      <circle cx="795" cy="145" r="6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur=".4s" fill="freeze"/></circle>
-      <circle cx="842" cy="164" r="5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur=".4s" fill="freeze"/></circle>
-      <circle cx="890" cy="103" r="5" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur=".4s" fill="freeze"/></circle>
-    </g>
-    <g fill="#678aa3" font-family="Consolas, Monaco, monospace" font-size="12">
-      <text x="661" y="71">DATA / SIGNAL</text>
-      <text x="844" y="258">01 02 03 04 05</text>
+    <g fill="#70d7cc">
+      <circle cx="800" cy="237" r="4"><animate attributeName="r" values="3;6;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="866" cy="176" r="4"><animate attributeName="r" values="3;6;3" begin=".7s" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="940" cy="128" r="4"><animate attributeName="r" values="3;6;3" begin="1.4s" dur="2.6s" repeatCount="indefinite"/></circle>
     </g>
   </g>
 
-  <circle cx="31" cy="27" r="6" fill="#ff6b6b"/>
-  <circle cx="52" cy="27" r="6" fill="#f7c65c"/>
-  <circle cx="73" cy="27" r="6" fill="#56d69c"/>
-  <text x="99" y="32" fill="#7f9cb0" font-family="Consolas, Monaco, monospace" font-size="13">SUNGSOO KWON / PROFILE</text>
-  <line x1="1" y1="48" x2="999" y2="48" stroke="#30465a"/>
+  <circle cx="30" cy="27" r="6" fill="#fa7d77"/>
+  <circle cx="51" cy="27" r="6" fill="#ffc96c"/>
+  <circle cx="72" cy="27" r="6" fill="#66dca5"/>
+  <text x="99" y="32" fill="#91a9bb" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">SUNGSOO KWON / PROFILE</text>
+  <line x1="1" y1="49" x2="999" y2="49" stroke="#344b61"/>
 
-  <text x="55" y="102" fill="#53d9b7" font-family="Consolas, Monaco, monospace" font-size="17">ABOUT</text>
-  <text x="55" y="170" fill="#f2f7fb" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Sungsoo Kwon</text>
-  <text x="57" y="211" fill="#9ec0d2" font-family="Consolas, Monaco, monospace" font-size="20">Data Scientist</text>
-  <rect x="56" y="245" width="226" height="38" rx="19" fill="#173c3e" stroke="#317d73"/>
-  <circle cx="76" cy="264" r="5" fill="#59e0a9">
-    <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <text x="91" y="270" fill="#b6f5df" font-family="Consolas, Monaco, monospace" font-size="15">MongooseAI · 2025—</text>
-  <text x="57" y="317" fill="#7493aa" font-family="Consolas, Monaco, monospace" font-size="13">Python  /  PyTorch  /  TensorFlow</text>
+  <rect x="54" y="79" width="278" height="289" rx="14" fill="#182535" stroke="#456077"/>
+  <text x="77" y="105" fill="#83a9bc" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">PIXEL IDENTITY</text>
+  <rect x="75" y="119" width="226" height="226" rx="7" fill="#f8f9fa"/>
+    <rect x="83" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".5s" fill="freeze"/></rect>
+    <rect x="125" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur=".5s" fill="freeze"/></rect>
+    <rect x="209" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.33s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur=".5s" fill="freeze"/></rect>
+    <rect x="83" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.32s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.44s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur=".5s" fill="freeze"/></rect>
+    <rect x="125" y="211" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur=".5s" fill="freeze"/></rect>
+    <rect x="209" y="211" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.67s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="253" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur=".5s" fill="freeze"/></rect>
+    <rect x="83" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.83s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.95s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="1.07s" dur=".5s" fill="freeze"/></rect>
+  <text x="77" y="354" fill="#83a9bc" font-family="Consolas, monospace" font-size="11">github.com/SungsooKwon</text>
+
+  <text x="372" y="115" fill="#59e1bd" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">DATA SCIENTIST</text>
+  <text x="369" y="184" fill="#f5f9fd" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Sungsoo Kwon</text>
+  <text x="372" y="222" fill="#a9c0cf" font-family="Arial, Helvetica, sans-serif" font-size="21">AI for industrial settings</text>
+  <rect x="371" y="248" width="230" height="39" rx="19.5" fill="#173c3e" stroke="#438d84"/>
+  <circle cx="391" cy="267.5" r="5" fill="#6bebb5"><animate attributeName="opacity" values="1;.35;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  <text x="406" y="273" fill="#c3f9e8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">MongooseAI · 2025—</text>
+
+  <line x1="372" y1="316" x2="716" y2="316" stroke="#375168"/>
+  <text x="372" y="346" fill="#7fd3ce" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5">CORE STACK</text>
+  <text x="372" y="371" fill="#d8e7ef" font-family="Arial, Helvetica, sans-serif" font-size="17">Python  ·  PyTorch  ·  TensorFlow</text>
+  <rect x="372" y="393" width="344" height="3" rx="1.5" fill="#29475b"/>
+  <rect x="372" y="393" width="344" height="3" rx="1.5" fill="url(#signal)" opacity=".9">
+    <animate attributeName="width" from="0" to="344" dur="2.5s" fill="freeze"/>
+  </rect>
 </svg>
