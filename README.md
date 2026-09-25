@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+  <img src="./assets/hero-profile.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
 
   <br />
 
-  <img src="./assets/typing.svg" alt="Applied AI for industrial settings, from data analysis to deployment" width="100%" />
+  <!-- Typing animation: https://github.com/DenverCoder1/readme-typing-svg -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;duration=3000&amp;pause=1200&amp;color=53E0BD&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=64&amp;lines=Data%20Scientist%20and%20AI%20Engineer;AI%20for%20industrial%20operations;From%20data%20analysis%20to%20deployment%20on%20site" alt="Animated introduction: Data Scientist and AI Engineer applying AI to industrial operations" width="100%" />
 
   <br />
 
@@ -14,7 +15,7 @@
 
 ### About Me
 
-I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I apply AI in industrial settings, working end to end from data analysis and AI modeling to on-site deployment.
+I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I develop AI solutions for industrial operations, covering the full process from data analysis and model development to deployment on site.
 
 ### Skills
 
@@ -47,4 +48,8 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I appl
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
     <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D visualization of Sungsoo Kwon's GitHub contributions" width="100%" />
   </picture>
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=SungsooKwon&amp;theme=dark&amp;hide_border=true" alt="Current GitHub contribution streak" width="520" />
 </div>
