@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI</title>
+  <desc id="desc">Animated profile banner with a pixel portrait, end-to-end AI workflow, and skills.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset=".55" stop-color="#122437"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#53e0bd"/>
+      <stop offset="1" stop-color="#74aaff"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#31506a" stroke-width=".8" opacity=".42"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="998" height="418" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="418" rx="18" fill="url(#background)" stroke="#3b526b" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="420" fill="url(#grid)"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <path d="M860 157V176 M860 222V241" stroke="#59d9c2" stroke-width="2" stroke-dasharray="5 4">
+        <animate attributeName="stroke-dashoffset" from="18" to="0" dur="1s" repeatCount="indefinite"/>
+      </path>
+      <g>
+        <rect x="753" y="110" width="214" height="48" rx="11" fill="#183444" stroke="#428a8c"/>
+        <circle cx="777" cy="134" r="9" fill="#235d61" stroke="#67d9c5"/>
+        <text x="797" y="140" fill="#d6f2ed" font-size="14" font-weight="700">01  DATA ANALYSIS</text>
+        <animate attributeName="opacity" from="0" to="1" begin=".4s" dur=".5s" fill="freeze"/>
+      </g>
+      <g>
+        <rect x="753" y="176" width="214" height="48" rx="11" fill="#183444" stroke="#428a8c"/>
+        <circle cx="777" cy="200" r="9" fill="#235d61" stroke="#67d9c5"/>
+        <text x="797" y="206" fill="#d6f2ed" font-size="14" font-weight="700">02  AI MODELING</text>
+        <animate attributeName="opacity" from="0" to="1" begin=".9s" dur=".5s" fill="freeze"/>
+      </g>
+      <g>
+        <rect x="753" y="242" width="214" height="48" rx="11" fill="#183444" stroke="#428a8c"/>
+        <circle cx="777" cy="266" r="9" fill="#235d61" stroke="#67d9c5"/>
+        <text x="797" y="272" fill="#d6f2ed" font-size="14" font-weight="700">03  ON-SITE DEPLOY</text>
+        <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur=".5s" fill="freeze"/>
+      </g>
+    </g>
+  </g>
+
+  <circle cx="30" cy="27" r="6" fill="#fa7d77"/>
+  <circle cx="51" cy="27" r="6" fill="#ffc96c"/>
+  <circle cx="72" cy="27" r="6" fill="#66dca5"/>
+  <text x="99" y="32" fill="#91a9bb" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">SUNGSOO KWON / PROFILE</text>
+  <line x1="1" y1="49" x2="999" y2="49" stroke="#344b61"/>
+
+  <rect x="54" y="79" width="278" height="289" rx="14" fill="#182535" stroke="#456077"/>
+  <text x="77" y="105" fill="#83a9bc" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">PIXEL IDENTITY</text>
+  <rect x="75" y="119" width="226" height="226" rx="7" fill="#f8f9fa"/>
+    <rect x="83" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".5s" fill="freeze"/></rect>
+    <rect x="125" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.21s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur=".5s" fill="freeze"/></rect>
+    <rect x="209" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.33s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="127" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.39s" dur=".5s" fill="freeze"/></rect>
+    <rect x="83" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.32s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.44s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="169" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur=".5s" fill="freeze"/></rect>
+    <rect x="125" y="211" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur=".5s" fill="freeze"/></rect>
+    <rect x="209" y="211" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.67s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="253" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur=".5s" fill="freeze"/></rect>
+    <rect x="83" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.83s" dur=".5s" fill="freeze"/></rect>
+    <rect x="167" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="0.95s" dur=".5s" fill="freeze"/></rect>
+    <rect x="251" y="295" width="41" height="41" rx="2" fill="#e49891"><animate attributeName="opacity" from="0" to="1" begin="1.07s" dur=".5s" fill="freeze"/></rect>
+  <text x="77" y="354" fill="#83a9bc" font-family="Consolas, monospace" font-size="11">github.com/SungsooKwon</text>
+
+  <text x="372" y="115" fill="#59e1bd" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">DATA SCIENTIST / AI ENGINEER</text>
+  <text x="369" y="184" fill="#f5f9fd" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Sungsoo Kwon</text>
+  <text x="372" y="222" fill="#a9c0cf" font-family="Arial, Helvetica, sans-serif" font-size="21">AI for industrial settings</text>
+  <rect x="371" y="248" width="230" height="39" rx="19.5" fill="#173c3e" stroke="#438d84"/>
+  <circle cx="391" cy="267.5" r="5" fill="#6bebb5"><animate attributeName="opacity" values="1;.35;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  <text x="406" y="273" fill="#c3f9e8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">MongooseAI · 2025—</text>
+
+  <line x1="372" y1="316" x2="716" y2="316" stroke="#375168"/>
+  <text x="372" y="346" fill="#7fd3ce" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5">INTERESTS</text>
+  <text x="372" y="371" fill="#d8e7ef" font-family="Arial, Helvetica, sans-serif" font-size="16">Optimal Control · Time Series Prediction</text>
+  <text x="372" y="392" fill="#d8e7ef" font-family="Arial, Helvetica, sans-serif" font-size="16">Anomaly Detection</text>
+  <rect x="372" y="405" width="344" height="3" rx="1.5" fill="#29475b"/>
+  <rect x="372" y="405" width="344" height="3" rx="1.5" fill="url(#signal)" opacity=".9">
+    <animate attributeName="width" from="0" to="344" dur="2.5s" fill="freeze"/>
+  </rect>
+</svg>
