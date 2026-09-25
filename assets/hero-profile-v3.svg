@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sungsoo Kwon — Data Scientist and AI Engineer</title>
+  <desc id="desc">An editorial profile panel with Sungsoo's animated pixel avatar and a three-step AI work process: data analysis, AI modeling, and deployment on site.</desc>
+  <rect x="1" y="1" width="998" height="418" rx="8" fill="#f8f9fb" stroke="#d0d7de" stroke-width="2"/>
+  <text x="54" y="46" fill="#868b94" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">SUNGSOO KWON / PROFILE</text>
+
+  <rect x="54" y="75" width="263" height="273" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="74" y="103" width="223" height="223" rx="4" fill="#fbfbfd"/>
+    <rect x="82" y="113" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.12s" dur=".45s" fill="freeze"/></rect>
+    <rect x="124" y="113" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.17s" dur=".45s" fill="freeze"/></rect>
+    <rect x="166" y="113" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.22s" dur=".45s" fill="freeze"/></rect>
+    <rect x="208" y="113" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur=".45s" fill="freeze"/></rect>
+    <rect x="250" y="113" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.32s" dur=".45s" fill="freeze"/></rect>
+    <rect x="82" y="155" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur=".45s" fill="freeze"/></rect>
+    <rect x="166" y="155" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur=".45s" fill="freeze"/></rect>
+    <rect x="250" y="155" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".45s" fill="freeze"/></rect>
+    <rect x="124" y="197" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.43s" dur=".45s" fill="freeze"/></rect>
+    <rect x="208" y="197" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.53s" dur=".45s" fill="freeze"/></rect>
+    <rect x="166" y="239" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.61s" dur=".45s" fill="freeze"/></rect>
+    <rect x="82" y="281" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur=".45s" fill="freeze"/></rect>
+    <rect x="166" y="281" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.74s" dur=".45s" fill="freeze"/></rect>
+    <rect x="250" y="281" width="40" height="40" rx="3" fill="#d98d86"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur=".45s" fill="freeze"/></rect>
+
+  <text x="355" y="118" fill="#777d87" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.4">DATA SCIENTIST · AI ENGINEER</text>
+  <text x="352" y="185" fill="#17191f" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.7">Sungsoo Kwon</text>
+  <text x="355" y="226" fill="#5e636d" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="23">AI for industrial operations</text>
+  <rect x="354" y="248" width="171" height="39" rx="6" fill="#eef4fb"/>
+  <circle cx="375" cy="267.5" r="5" fill="#007aff"/>
+  <text x="391" y="274" fill="#2363a8" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600">MongooseAI</text>
+  <line x1="355" y1="314" x2="943" y2="314" stroke="#dce0e5"/>
+
+  <path d="M382 345 H829" fill="none" stroke="#c9d8e8" stroke-width="3" stroke-linecap="round" stroke-dasharray="447" stroke-dashoffset="447">
+    <animate attributeName="stroke-dashoffset" from="447" to="0" begin=".6s" dur="2s" fill="freeze"/>
+  </path>
+  <g font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-weight="700">
+    <g>
+      <circle cx="377" cy="345" r="15" fill="#ffffff" stroke="#007aff" stroke-width="2"/>
+      <text x="377" y="351" text-anchor="middle" fill="#007aff" font-size="16">1</text>
+      <text x="355" y="386" fill="#4e5661" font-size="15">Data analysis</text>
+      <animate attributeName="opacity" from="0" to="1" begin=".3s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <circle cx="587" cy="345" r="15" fill="#ffffff" stroke="#007aff" stroke-width="2"/>
+      <text x="587" y="351" text-anchor="middle" fill="#007aff" font-size="16">2</text>
+      <text x="535" y="386" fill="#4e5661" font-size="15">AI modeling</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1s" dur=".5s" fill="freeze"/>
+    </g>
+    <g>
+      <circle cx="829" cy="345" r="15" fill="#ffffff" stroke="#007aff" stroke-width="2"/>
+      <text x="829" y="351" text-anchor="middle" fill="#007aff" font-size="16">3</text>
+      <text x="759" y="386" fill="#4e5661" font-size="15">On-site deployment</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur=".5s" fill="freeze"/>
+    </g>
+  </g>
+</svg>
