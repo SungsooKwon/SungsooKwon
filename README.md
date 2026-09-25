@@ -8,6 +8,8 @@
   <a href="https://github.com/SungsooKwon"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+---
+
 ### About Me
 
 <div align="center">
@@ -18,9 +20,13 @@
 
 > 안녕하세요! 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 데이터 분석과 AI 모델 개발부터 AI가 실제 산업 현장에 적용되는 과정까지 담당하고 있으며, 현재는 산업 설비의 공정 파라미터를 최적화하는 여러 프로젝트를 수행 중입니다.
 
+---
+
 <div align="center">
   <img src="./assets/areas-of-interest-v3.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
 </div>
+
+---
 
 ### Skills & Tools
 
@@ -30,6 +36,8 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
+
+---
 
 ### Experience
 
@@ -41,6 +49,8 @@
 | 2022.01 – 2022.03 | Research Intern · ETRI |
 | 2021.12 – 2023.02 | Undergraduate Researcher · DCU-KTAI Lab |
 | 2017.03 – 2023.02 | Bachelor's degree · Daegu Catholic University |
+
+---
 
 ### Contribution Snake
 
