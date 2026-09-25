@@ -25,9 +25,9 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 
 ### Research Interests
 
-**Current interests:** Optimal Control · Time Series Prediction · Anomaly Detection
-
-**Currently studying:** Reinforcement Learning · Large Language Models (LLMs) · Multi-Agent Systems (MAS)
+<div align="center">
+  <img src="./assets/research-focus.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
+</div>
 
 ### Experience
 
@@ -39,17 +39,3 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 | 2022.01 – 2022.03 | Research Intern · ETRI |
 | 2021.12 – 2023.02 | Undergraduate Researcher · DCU-KTAI Lab |
 | 2017.03 – 2023.02 | Bachelor's degree · Daegu Catholic University |
-
-### GitHub Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D visualization of Sungsoo Kwon's GitHub contributions" width="100%" />
-  </picture>
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=SungsooKwon&amp;theme=dark&amp;hide_border=true" alt="Current GitHub contribution streak" width="520" />
-</div>
