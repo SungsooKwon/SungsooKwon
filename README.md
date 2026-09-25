@@ -1,15 +1,20 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Sungsoo Kwon — Data Scientist at MongooseAI" width="100%" />
+  <img src="./assets/hero.svg" alt="Sungsoo Kwon — Data Scientist and AI Engineer at MongooseAI" width="100%" />
+
+  <br />
+
+  <img src="./assets/typing.svg" alt="Applied AI for industrial settings, from data analysis to deployment" width="100%" />
 
   <br />
 
   <a href="mailto:thesng.k@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/sungsookwon/">LinkedIn</a> ·
   <a href="https://github.com/SungsooKwon">GitHub</a>
 </div>
 
 ### About Me
 
-I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. I apply AI in industrial settings, working end to end from data analysis and AI modeling to on-site deployment.
+I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I apply AI in industrial settings, working end to end from data analysis and AI modeling to on-site deployment.
 
 ### Skills
 
@@ -27,7 +32,7 @@ I'm **Sungsoo Kwon**, a Data Scientist at **MongooseAI**. I apply AI in industri
 
 | Period | Experience |
 | :-- | :-- |
-| 2025.05 – Present | Data Scientist · MongooseAI |
+| 2025.05 – Present | Data Scientist & AI Engineer · MongooseAI |
 | 2023.03 – 2025.02 | Master's degree · Daegu Catholic University |
 | 2023.01 – 2023.03 | Research Intern · ETRI |
 | 2022.01 – 2022.03 | Research Intern · ETRI |
