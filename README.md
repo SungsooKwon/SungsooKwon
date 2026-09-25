@@ -22,17 +22,15 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 
 저는 **MongooseAI**에서 데이터 사이언티스트이자 AI 엔지니어로 일하고 있는 **권성수**입니다. 산업 현장에 AI를 적용하며, 데이터 분석부터 AI 모델 개발과 현장 적용까지 전 과정을 다루고 있습니다.
 
-### Skills
-
-| Python | PyTorch | TensorFlow |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" width="58" /> | <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" width="58" /> | <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="58" /> |
-
-### Research Interests
+### Areas of Interest
 
 <div align="center">
-  <img src="./assets/research-focus-v3.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
+  <img src="./assets/areas-of-interest.svg" alt="Current interests: Optimal Control, Time Series Prediction, Anomaly Detection. Currently studying: Reinforcement Learning, Large Language Models, Multi-Agent Systems." width="100%" />
 </div>
+
+### Skills
+
+<img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" width="28" height="28" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" width="28" height="28" /> PyTorch &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" width="28" height="28" /> TensorFlow
 
 ### Experience
 
