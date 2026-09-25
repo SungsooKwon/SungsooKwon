@@ -45,12 +45,6 @@ I'm **Sungsoo Kwon**, a Data Scientist and AI Engineer at **MongooseAI**. I deve
 | 2021.12 – 2023.02 | Undergraduate Researcher · DCU-KTAI Lab |
 | 2017.03 – 2023.02 | Bachelor's degree · Daegu Catholic University |
 
-### 3D Contribution Art
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Season-colored animated 3D visualization of Sungsoo Kwon's GitHub contributions" width="100%" />
-</div>
-
 ### Contribution Snake
 
 <div align="center">
